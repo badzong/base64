@@ -1,3 +1,7 @@
+/*
+ * Written by Manuel Badzong. If you have suggestions or improvements, let me
+ * know.
+ */
 #include <stdint.h>
 #include <stdlib.h>
 #include <string.h>

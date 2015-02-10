@@ -1,5 +1,7 @@
 # base64
-Simple public domain Base64 encoder and decoder with error checking.
+
+Simple Base64 encoder and decoder with error checking. Released to the public
+domain.
 
 Usage:
 
